@@ -1,20 +1,10 @@
 # Hi, I'm Yukino-koko
 
-## English
+Waseda University / Environmental and Energy Engineering  
+Learning software development and building small projects along the way.
 
-I'm a student at Waseda University, studying in the field of environmental and energy engineering.
-
-I'm currently learning software development, Git, GitHub, and programming fundamentals.
-
-I use this profile to keep track of what I'm learning, share small projects, and gradually build up my work.
-
-## 日本語
-
-早稲田大学で環境・エネルギー分野を学んでいます。
-
-現在はソフトウェア開発にも関心があり、Git、GitHub、プログラミングの基礎を学習しています。
-
-このプロフィールでは、学習の記録や小さなプロジェクト、これから作っていくものを少しずつまとめていきます。
+早稲田大学 / 環境・エネルギー分野  
+ソフトウェア開発を学びながら、小さなプロジェクトを少しずつ作っています。
 
 ## GitHub Stats
 
