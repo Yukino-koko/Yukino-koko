@@ -1,20 +1,20 @@
 # Hi, I'm Yukino-koko
 
-Welcome to my GitHub profile.
+## English
 
-I'm starting my journey here: learning, building, and slowly collecting the projects that matter to me.
+I'm a student at Waseda University, studying in the field of environmental and energy engineering.
 
-## About Me
+I'm currently learning software development, Git, GitHub, and programming fundamentals.
 
-- Currently learning Git, GitHub, and software development basics
-- Interested in creating useful, beautiful, and thoughtful projects
-- Building my profile step by step
+I use this profile to keep track of what I'm learning, share small projects, and gradually build up my work.
 
-## What I'm Working On
+## 日本語
 
-- Setting up my GitHub profile
-- Learning how repositories, commits, and README files work
-- Preparing for my first public project
+早稲田大学で環境・エネルギー分野を学んでいます。
+
+現在はソフトウェア開発にも関心があり、Git、GitHub、プログラミングの基礎を学習しています。
+
+このプロフィールでは、学習の記録や小さなプロジェクト、これから作っていくものを少しずつまとめていきます。
 
 ## GitHub Stats
 
