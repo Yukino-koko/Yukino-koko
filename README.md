@@ -26,4 +26,4 @@ Learning software development and building small projects along the way.
 
 ## Connect
 
-More links will be added here later.
+GitHub: [Yukino-koko](https://github.com/Yukino-koko)
