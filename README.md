@@ -17,6 +17,9 @@ Learning software development and building small projects along the way.
 - [Energy Carbon Calculator](https://github.com/Yukino-koko/energy-carbon-calculator)  
   A small Python command-line tool that estimates CO2 emissions from electricity use.
 
+- [Renewable Energy Mix](https://github.com/Yukino-koko/renewable-energy-mix)  
+  A small Python command-line tool that calculates the renewable energy share of an electricity mix.
+
 ## GitHub Stats
 
 ![Yukino-koko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukino-koko&show_icons=true&theme=default)
