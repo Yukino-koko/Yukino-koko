@@ -14,11 +14,13 @@ Learning software development and building small projects along the way.
 
 ## Projects
 
+Environmental and energy focused Python projects:
+
 - [Energy Carbon Calculator](https://github.com/Yukino-koko/energy-carbon-calculator)  
-  A small Python command-line tool that estimates CO2 emissions from electricity use.
+  Estimate CO2 emissions from electricity use with a simple command-line tool.
 
 - [Renewable Energy Mix](https://github.com/Yukino-koko/renewable-energy-mix)  
-  A small Python command-line tool that calculates the renewable energy share of an electricity mix.
+  Calculate the renewable energy share of an electricity mix from generation data.
 
 ## GitHub Stats
 
